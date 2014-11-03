@@ -1,0 +1,31 @@
+---
+title: Bob Gilmore
+layout: default_layout
+change_frequency: daily
+priority: 1.0
+---
+<div id='post-summary-list'>
+  {% for post in site.posts limit:3 %}
+    <div class='post'>
+      <header>      
+        <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
+        <span class="date">{{ post.date | date:"%B %d, %Y" }}</span>
+      </header>
+      <div class="post-excerpt">{{ post.excerpt }}</div>
+      <a href="{{ post.url }}">read more ...</a>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Recent Posts</h2>
+<div id = 'recent-post-list'>
+  <ul>
+    {% for post in site.posts offset:3 limit:7 %}
+      <li>{% include post_date_title.html %}</li>
+    {% endfor %}
+  </ul>
+</div>
+    
+
+<h2>All Posts</h2>
+See the <a href="/archive.html">Archive</a>.

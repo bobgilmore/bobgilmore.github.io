@@ -1,0 +1,18 @@
+---
+layout: default_layout
+---
+<h1 class="post_title">{{page.title}}</h1>
+<div id='tagged-post-list'>
+  <ul class="posts unstyled">
+    {% for post in site.posts %}
+      {% for tag in post.tags %}
+        {% if tag == page.tag %}
+          <li>
+            {% include post_date_title.html %}
+            {% include tag_list_subtle.html %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
