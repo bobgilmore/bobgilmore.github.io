@@ -3,8 +3,8 @@
 # only Main files contain this front matter, not partials.
 ---
 
-@import "bourbon";
-@import "neat";
+@import "bourbon/bourbon";
+@import "neat/neat";
 @import "bitters/bitters";
 
 ul, ol {
