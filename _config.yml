@@ -1,0 +1,9 @@
+name: Bob Gilmore
+description: Bob Gilmore's Development Blog
+url: http://blog.bobgilmore.name
+
+# Set timezone so that the host will always use Boston time for determining the "future"
+timezone: America/New_York
+future: true
+
+markdown: kramdown
