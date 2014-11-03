@@ -3,9 +3,6 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {% stylesheet vendor/syntax %}
-    {% stylesheet styles %}
-    {% javascript app %}
     <title>{{ page.title }}</title>
 
     <script>
@@ -24,7 +21,7 @@
     {% include header.html %}
     <section class="our-page">
       <div class="left-rail">&nbsp;</div>
-      <div class="center-rail"> 
+      <div class="center-rail">
         <div class="post">
           <header>
             <h1>{{ page.title }}</h1>
@@ -33,7 +30,7 @@
           {{ content }}
           {% if page.tags.size > 0 %}
             <div class="tag-list-prominent">
-              Topics:   
+              Topics:
               {% for tag in page.tags %}
                <a href="/tag/{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
               {% endfor %}
