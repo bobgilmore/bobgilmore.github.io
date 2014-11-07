@@ -8,7 +8,7 @@ priority: 1.0
 <div id='tag-list'>
   <ul>
     {% for tag in site.tags %}
-      <li><a href="/tag/{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
+      <li><a href="/tags/{{ tag[0] }}/index.html">{{ tag[0] }} ({{ tag[1].size }})</a></li>
   {% endfor %}
   </ul>
 </div>
