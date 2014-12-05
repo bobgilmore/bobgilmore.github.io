@@ -21,7 +21,7 @@ Turns out that FactoryGirl's default behavior is to `new` or `create` the object
 
 Solution
 ------
-Turns out that you can [customize a Factory's constructor](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md#custom-construction) to pass certain (or all) parameters to a particular factory.  I had the best luck using the big hammer of
+You can [customize a Factory's constructor](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md#custom-construction) to pass certain (or all) parameters to a particular factory.  I had the best luck using the big hammer of
 
     initialize_with { new(attributes) }
     
