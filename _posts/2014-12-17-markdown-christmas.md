@@ -16,6 +16,6 @@ We finished our Christmas letter to friends and family. As web nerd-ily as possi
     * Chose a `font-family` and `font-size`.
 * Ran it through [Marked](http://marked2app.com/) to print.
 
-Hooray for another Microsoft Word-free (*and* troff-free) Christmas!
+Hooray for another Microsoft Word-free (*and* `troff`-free) Christmas!
 
 The Christmas letter repo will eventually appear [on GitHub](https://github.com/bobgilmore/christmas_letters).  Not yet, though - I want to mail them first!
