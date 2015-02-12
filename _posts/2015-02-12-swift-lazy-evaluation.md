@@ -2,7 +2,7 @@
 title: Swift @autoclosure and Lazy Evaluation
 tags:
 - swift
-date: 2015-02-09 09:00:00
+date: 2015-02-12 16:00:00
 layout: post
 ---
 
