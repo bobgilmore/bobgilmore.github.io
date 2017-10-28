@@ -2,7 +2,6 @@
 layout: post
 title: Adding your Twitter Feed to Your Site
 tags:
-- social
 - twitter
 ---
 This was easy-peasy.  Was it this easy two years ago?  Were we doing something wrong?
