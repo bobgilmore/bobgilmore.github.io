@@ -3,7 +3,6 @@ title: Omnifocus and Siri
 tags:
 - omnifocus
 - gtd
-- siri
 date: 2014-01-27 8:00:00
 layout: post
 ---
