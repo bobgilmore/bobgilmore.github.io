@@ -1,9 +1,7 @@
 ---
 title: Forcing a Jekyll Update on Heroku
 tags:
-- hazel
 - heroku
-- ifttt
 - jekyll
 - siri
 date: 2014-01-15 8:00:00
