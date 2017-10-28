@@ -3,7 +3,6 @@ layout: post
 title: Heroku Buildpacks Aren't Specified in Version Control
 tags:
 - heroku
-- version_control
 ---
 &hellip; and we\'re back from a mystery outage!  Lessons learned&hellip;
 
