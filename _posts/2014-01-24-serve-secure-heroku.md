@@ -2,7 +2,6 @@
 title: Serving (One-Off) Files Securely on Heroku
 tags:
 - heroku
-- ssl
 date: 2014-01-24 8:00:00
 layout: post
 ---
