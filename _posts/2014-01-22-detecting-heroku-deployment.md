@@ -2,7 +2,6 @@
 title: Detecting that You're Deployed to Heroku
 tags:
 - heroku
-- ruby
 date: 2014-01-22 8:00:00
 layout: post
 ---
