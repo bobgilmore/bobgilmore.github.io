@@ -2,7 +2,6 @@
 title: Diagnosing Hyperkey Problems
 tags:
 - tmux
-- vim
 - unix
 - productivity
 date: 2014-11-04 08:00:00
