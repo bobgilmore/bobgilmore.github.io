@@ -2,7 +2,6 @@
 title: Postman and Authorization Bearer tokens
 tags:
 - oauth
-- postman
 date: 2015-06-12 13:30:00
 layout: post
 ---
