@@ -2,7 +2,6 @@
 title: tmux, Hyper Key, and Caps Lock
 tags:
 - tmux
-- vim
 - unix
 - productivity
 date: 2014-03-13 10:00:00
