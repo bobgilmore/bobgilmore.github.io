@@ -2,7 +2,6 @@
 layout: post
 title: Bad Quote Glyphs? Think Encoding.
 tags:
-- html
 - jekyll
 ---
 If you're seeing bad glyphs for quotes, ellipses, etc., think "encoding?"
