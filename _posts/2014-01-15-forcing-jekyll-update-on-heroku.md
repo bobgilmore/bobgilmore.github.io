@@ -3,7 +3,6 @@ title: Forcing a Jekyll Update on Heroku
 tags:
 - heroku
 - jekyll
-- siri
 date: 2014-01-15 8:00:00
 layout: post
 ---
