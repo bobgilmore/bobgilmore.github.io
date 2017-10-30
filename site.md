@@ -7,13 +7,13 @@ priority: 1.0
 
 About the Site
 =====
-The main implementation is a [Jekyll](http://github.com/mojombo/jekyll/) app. Powered by, and served from, [GitHub Pages](https://pages.github.com/).
+The main implementation is a [Jekyll](http://github.com/mojombo/jekyll/) app powered by, and served from, [GitHub Pages](https://pages.github.com/).
 
 Workflow
 ----
 
 1. I commit blog entries and other pages in [Markdown](http://daringfireball.net/projects/markdown/), which is automatically translated into HTML by Jekyll.
-2. I push the entries (just the Markdown) to a particular [Github repo](https://github.com/bobgilmore/bobgilmore.github.io).
+2. I push the entries (just the Markdown) to my [GitHub repo](https://github.com/bobgilmore/bobgilmore.github.io).
 3. GitHub runs the Jekyll engine for me, generating HTML from the Markdown.
 
 I used to run a Jekyll instance on [Heroku](https://www.heroku.com/), but got tired of updating Jekyll myself, so I decided to let GitHub manage it.
@@ -21,11 +21,9 @@ I used to run a Jekyll instance on [Heroku](https://www.heroku.com/), but got ti
 Technologies
 -----
 
-Jekyll is "pure" Ruby, not Rails, so there's no builtin asset pipeline.  Fortunately, GitHub maanges that from me, generating [Sass](http://sass-lang.com/) as necessary.  (When I was hosting on Heroku, I added an asset pipeline with the [jekyll-assets](https://github.com/ixti/jekyll-assets) gem.)
+Jekyll is "pure" Ruby, not Rails, so there's no builtin asset pipeline. GitHub manages it for me, generating [Sass](http://sass-lang.com/) as necessary.  (When I was hosting on Heroku, I added an asset pipeline with the [jekyll-assets](https://github.com/ixti/jekyll-assets) gem.)
 
-[kramdown](http://kramdown.gettalong.org/) (one of Jekyll's alternative HTML translators) replaces Jekyll's default, [Maruku](http://maruku.rubyforge.org/).
-
-[jQuery](http://jquery.com/) is the indispensable JavaScript library.
+GitHub Pages uses [kramdown](http://kramdown.gettalong.org/) (one of Jekyll's alternative HTML translators) to replace Jekyll's default, [Maruku](http://maruku.rubyforge.org/).
 
 [Thoughtbot's](http://thoughtbot.com) libraries [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/) provide responsive layout.
 
@@ -37,4 +35,4 @@ The RSS feed is served directly from within GitHub (no need for FeedBurner etc. 
 
 Comments handled by [Disqus](http://disqus.com/).
 
-I *considered* migrating off of [Pygments](http://pygments.org/) (for code syntax highlighting) to [CodeRay](http://coderay.rubychan.de/), but the latter doesn't highlight SCSS yet, so I'm sticking with the former.
+I *considered* migrating off of [Pygments](http://pygments.org/) (for code syntax highlighting) to [CodeRay](http://coderay.rubychan.de/), but the latter didn't highlight SCSS the last time I checked, so I stuck with Pygments.
