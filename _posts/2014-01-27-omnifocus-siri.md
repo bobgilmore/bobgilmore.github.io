@@ -1,8 +1,8 @@
 ---
 title: Omnifocus and Siri
 tags:
-- omnifocus
 - gtd
+- productivity
 date: 2014-01-27 8:00:00
 layout: post
 ---
