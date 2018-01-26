@@ -17,4 +17,4 @@ new variables in the closure.
 
 Here are the slides:
 
-(<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaawg9jm9ZCC0OLGkiL7ptCkQWbDgqjKAFxoEDlUG9knf1qUJEZG6X186GKqyXJordcvLwg5XklBVq/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaawg9jm9ZCC0OLGkiL7ptCkQWbDgqjKAFxoEDlUG9knf1qUJEZG6X186GKqyXJordcvLwg5XklBVq/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
