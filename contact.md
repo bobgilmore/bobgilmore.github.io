@@ -7,11 +7,14 @@ priority: 1.0
 
 About
 ======
-I've been a Full-Stack Web Developer for several years. I'm currently a Ruby on Rails developer at [MeYou Health](http://meyouhealth.com) in Boston. I've also done:
+I'm an iOS consultant and developer, currently at [Intrepid](https://www.intrepid.io), part of [Accenture Interactive](https://www.accenture.com/us-en/interactive-index) in Cambridge, MA.
 
+Before that, I was a full-stack web developer. I've done...
+
+* Ruby on Rails development at [MeYou Health](http://meyouhealth.com).
 * Ruby development at [Ascend Learning](http://www.ascendlearning.com/).  
 * Full-stack web development at [OurStage](http://www.ourstage.com/).
-* Subcontracting work on other RoR-based sites.
+* Consulting and subcontracting on other Ruby on Rails-based sites.
 
 Before web development I worked in desktop software for fifteen years, specializing in desktop Java, MATLAB, and C++.
 
@@ -26,4 +29,3 @@ Contact
 * GitHub: [bobgilmore](https://github.com/bobgilmore)
 * Stack Overflow: [bob-gilmore](http://stackoverflow.com/users/887124/bob-gilmore)
 * LinkedIn: [Bob Gilmore](http://www.linkedin.com/profile/view?id=3576179&trk=nav_responsive_tab_profile)
-* JSFiddle: [bobgilmore](http://jsfiddle.net/user/bobgilmore/fiddles/)
