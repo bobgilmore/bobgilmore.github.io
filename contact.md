@@ -28,4 +28,4 @@ Contact
 * Twitter: [@bob_gilmore](https://twitter.com/bob_gilmore)
 * GitHub: [bobgilmore](https://github.com/bobgilmore)
 * Stack Overflow: [bob-gilmore](http://stackoverflow.com/users/887124/bob-gilmore)
-* LinkedIn: [Bob Gilmore](http://www.linkedin.com/profile/view?id=3576179&trk=nav_responsive_tab_profile)
+* LinkedIn: [Bob Gilmore](https://www.linkedin.com/in/robertcgilmore/)
