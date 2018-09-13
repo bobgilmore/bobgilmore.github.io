@@ -1,9 +1,9 @@
 ---
-title: Using the "full" fastlane snapshot install
+title: Using the "Full" Fastlane Snapshot Install
 tags:
 - fastlane
 - ios
-date: 2018-09-10 08:00:00
+date: 2018-09-12 22:30:00
 layout: post
 ---
 There are two ways to install [`fastlane snapshot`](https://docs.fastlane.tools/getting-started/ios/screenshots/) in your project - a "standalone" way (`snapshot`-only), or as part of the [fastlane](https://docs.fastlane.tools) "suite" of products. The second is better, here's why...
