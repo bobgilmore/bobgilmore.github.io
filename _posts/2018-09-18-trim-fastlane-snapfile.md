@@ -6,7 +6,6 @@ tags:
 date: 2018-09-18 22:30:00
 layout: post
 ---
-# Trim the Fastlane Snapfile for Debugging
 The default `Snapfile` that `fastlane init` creates for you is fine, with one exception.
 
 Once you have your UI test files written, complete with `snapshot()` calls, you run
